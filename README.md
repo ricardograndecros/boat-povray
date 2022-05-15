@@ -4,6 +4,6 @@ Playing around with isosurfaces from www.ignorancia.org and whirlpools for compu
 Here are some renders:
 ![main render](RENDERS/main_view.png "BOAT IN DANGER")
 
-![main render 2](RENDERS/main_view.png "BOAT SAILING")
+![main render 2](RENDERS/main_view2.png "BOAT SAILING")
 
 ![render](RENDERS/sea_boat.png "BOAT SAILING")
